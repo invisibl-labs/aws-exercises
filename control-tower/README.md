@@ -84,9 +84,30 @@ Once the setup is completed, should see the results with the details of all the 
 Verify if the OUs, shared accounts, and guardrails are setup
 <img width="1393" alt="Screenshot 2022-06-21 at 11 54 47 AM" src="https://user-images.githubusercontent.com/104984822/174815796-ade2f512-c8b5-45fe-a01a-08ec023a5d3d.png">
 
+Start the exercises after completing the setup.
 
 ## Exercise 1
 
+* Create a new Organizational Unit 'Dev' under Root
+* Add 1 member account using the 'Create Account' feature in Account Factory
+* Associate the account with 'Dev' OU
+* Check if the mandatory guardrails are enabled for the new OU and Account
+* Check the status of the OU. Should be 'Compliant'
+
+
+## Exercise 2
+
+* Create a new Organizational Unit 'Staging' under Root
+* Add 1 member account using the 'Create Account' feature in Account Factory
+* Associate the account with 'Staging' OU
+* Check if the mandatory guardrails are enabled for the new OU and Account
+* Check the status of the OU. Should be 'Compliant'
+* Add a new guardrail to 'Dev' OU
+* Search for 'Detect whether any Amazon VPC subnets are assigned a public IP address' and open the details
+* Enable this guardrail for 'Dev' OU
+* Verify if this guardrail is added to 'Dev' OU
+* Check if the status of the OU is 'Compliant.
+* Navigate back to 'Staging' OU and check if the guardrail is added. Should not see this guardrail
 
 
 
