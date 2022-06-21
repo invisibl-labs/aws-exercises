@@ -81,6 +81,12 @@ Wait for the setup to be completed. It takes about 15-20 mins to complete.
 Once the setup is completed, should see the results with the details of all the resources created
 <img width="1385" alt="Screenshot 2022-06-21 at 12 43 42 PM" src="https://user-images.githubusercontent.com/104984822/174814942-55238c31-c925-4ac8-ba05-a4a4d3047c4d.png">
 
+Verify if the OUs, shared accounts, and guardrails are setup
+<img width="1393" alt="Screenshot 2022-06-21 at 11 54 47 AM" src="https://user-images.githubusercontent.com/104984822/174815796-ade2f512-c8b5-45fe-a01a-08ec023a5d3d.png">
+
+
+## Exercise 1
+
 
 
 
