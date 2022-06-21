@@ -61,6 +61,29 @@ Configure organizational unit. This is required for Security OU to store shared 
 
 <img width="1062" alt="Screenshot 2022-06-20 at 10 29 37 PM" src="https://user-images.githubusercontent.com/104984822/174814025-25eba5fc-4ae2-4c09-814a-594064be9957.png">
 
+### Step-5
+Configure shared accounts for log archive and audit accounts. Provide unique email ids for these accounts.
+<img width="1044" alt="Screenshot 2022-06-20 at 10 37 51 PM" src="https://user-images.githubusercontent.com/104984822/174814375-aa7d0922-efd8-4c92-aa1a-f972b0c394a3.png">
+
+<img width="793" alt="Screenshot 2022-06-20 at 10 38 27 PM" src="https://user-images.githubusercontent.com/104984822/174814430-4115660b-5624-41ec-a686-2b1ab16c2da5.png">
+
+### Step-6
+Review the details and setup landing zone
+<img width="1067" alt="Screenshot 2022-06-20 at 10 56 15 PM" src="https://user-images.githubusercontent.com/104984822/174814545-f2e28148-b07f-4d05-b010-43183c30e85a.png">
+
+<img width="762" alt="Screenshot 2022-06-20 at 10 59 27 PM" src="https://user-images.githubusercontent.com/104984822/174814618-37dd2de3-c12b-43f7-aec4-3ea90dbfeab1.png">
+
+### Step-7
+Wait for the setup to be completed. It takes about 15-20 mins to complete.
+<img width="1384" alt="Screenshot 2022-06-20 at 11 00 14 PM" src="https://user-images.githubusercontent.com/104984822/174814769-5bb43939-60b4-4d28-9a7a-ea4b33e60399.png">
+
+### Step-8
+Once the setup is completed, should see the results with the details of all the resources created
+<img width="1385" alt="Screenshot 2022-06-21 at 12 43 42 PM" src="https://user-images.githubusercontent.com/104984822/174814942-55238c31-c925-4ac8-ba05-a4a4d3047c4d.png">
+
+
+
+
 
 
 
