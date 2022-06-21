@@ -56,6 +56,11 @@ Select a home region for the control tower.
 Select additional regions to add governance. All guardrails will be applied to accounts in the additional regions.
 <img width="917" alt="Screenshot 2022-06-20 at 10 28 55 PM" src="https://user-images.githubusercontent.com/104984822/174812273-70c0d219-3e80-4ea0-9517-f73f82b818b8.png">
 
+### Step-4
+Configure organizational unit. This is required for Security OU to store shared accounts for log archive and audits and Sandbox OU is optional for storing other accounts for dev, staging or prod environments. Additional OUs can be created after the landing zone setup.
+
+<img width="1062" alt="Screenshot 2022-06-20 at 10 29 37 PM" src="https://user-images.githubusercontent.com/104984822/174814025-25eba5fc-4ae2-4c09-814a-594064be9957.png">
+
 
 
 
